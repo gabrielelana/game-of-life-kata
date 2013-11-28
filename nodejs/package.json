@@ -1,0 +1,21 @@
+{
+  "name": "gol",
+  "version": "0.0.0",
+  "description": "Game of Life Kata",
+  "main": "gol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kata",
+    "gol",
+    "game-of-life"
+  ],
+  "author": "gabriele.lana@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.14.0",
+    "underscore": "~1.5.2"
+  }
+}
